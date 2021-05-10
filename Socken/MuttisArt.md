@@ -14,9 +14,18 @@ Dann 3 Runden glatt rechts. (Beim Rundenanfang anfangen, also da wo unten der Zi
 
 ## Ferse
 
-Die Hälfte der Maschen wird stillgelegt. D. h. 32 Maschen werden für die Ferse auf eine Nadel getan.
+Die Hälfte der Maschen wird stillgelegt und erst in "Verbindung Ferse und Spann" wieder gestrickt. Die andere Hälfte, also 32 Maschen, werden für die Ferse auf eine Nadel getan.  
+Diese 32 Maschen werden nun hin und her weiter gestrickt, nach jeder Zeile im folgendem Muster wird das Strickstück gewendet.
 
-TODO Bilka
+Muster ("Halb-Patent"):  
+re = rechte Masche, a = abheben, li = linke Masche, rand = Randmasche (Ende Reihe: abheben mit Faden vorne. Anfang Reihe: "normal" rechts stricken)
+
+    1. re   re re    a re a re a re ....      re re rand (wenden)
+    2. rand re re    li li li li li li ....   re re rand (wenden)
+    3. rand re re    a re a re a re ....      re re rand (wenden)
+    4. rand re re    li li li li li li ....   re re rand (wenden)
+
+Punkte 3 und 4 wiederholen, bis insgesamt 16 Doppelreihen gestrickt wurden, d.h. also 32 mal hin und her.
 
 ## Käppchen
 
@@ -31,9 +40,9 @@ Letzten beiden Zeilen wiederholen bis außen keine Maschen mehr über sind.
 
 ## Verbindung Ferse und Spann
 
-1 Masche abheben. Mit rechten Maschen weiterstricken. Aus jeder Schlaufe längs der Ferse eine Masche aufschlagen, das sollten 16 sein. Beim Übergang zur nächsten Nadel eine 17-nte aus verdrehtem Faden aufnehmen, um das Loch dort zu verkleinern.  
-Nächste beiden Nadeln glatt rechts.  
-Dann mit einer neuen Nadel an der 2. Fersenseite ebenfalls Maschen aufschlagen. Hier ist das Verdrehen des Fadens beim Aufschlagen der ersten Masche besonders wichtig. 5 Maschen der nächsten Nadel auf diese Nadel rüberstricken, damit auf beiden Nadeln 5 + 17 Maschen sind.  
+1 Masche abheben (wegen des Musters im voherigen Teil). Mit rechten Maschen weiterstricken. Aus jeder Schlaufe längs der Ferse eine Masche aufschlagen, das sollten 16 sein. Beim Übergang zur nächsten Nadel eine 17-nte aus verdrehtem Faden aufnehmen, um das Loch dort zu verkleinern.  
+Nächste beiden Nadeln glatt rechts, dies sind die Nadeln die in "Ferse" stillgelegt wurden.  
+Dann mit einer neuen Nadel an der 2. Fersenseite ebenfalls Maschen aufschlagen. Hier ist das Verdrehen des Fadens beim Aufschlagen der ersten Masche besonders wichtig. Nach dem Aufschlagen der 17 Maschen, 5 Maschen der nächsten Nadel auf diese Nadel rüberstricken, damit auf beiden Nadeln 5 + 17 Maschen sind.  
 3 Nadeln glatt rechts um beim Rundenanfang anzukommen, also da wo unten der Zipfel ist.
 
 ## Keilabnehmen
