@@ -52,15 +52,22 @@ Dieses wiederholen (=jede 2. Runde abnehmen) bis auf allen Nadeln wieder jeweils
 
 ## Fuß
 
-Glatt rechts stricken, bis zum Ende des kleine Zehs (am Fuß messen).  
+Glatt rechts stricken, bis zum Ende des kleine Zehs (am Fuß messen). Beim Rundenanfang aufhören, also da wo unten der Zipfel ist.  
 Länge von Ende Keilabnahmen: 13 cm (knapp, also eher 12,9 cm)
 
 ## Spitze
 
-TODO Bilka
+Abnehmrunde: 1 Masche rechts, zwei Maschen links zusammenstricken, rechts weiter. Auf der nächsten Nadel die vor-vorletzte und vorletzte Maschen links zusammenstricken, dann die letzte Masche rechts stricken. Auf der nächsten Nadel 1 Masche rechts, zwei Maschen links zusammenstricken, rechts weiter. Auf der nächsten Nadel die vor-vorletzte und vorletzte Maschen links zusammenstricken, dann die letzte Masche rechts stricken.  
+Dann 3 Runden glatt rechts stricken. (=1x3)
 
-Bis 4 Maschen je Nadel über sind.  
-Abketteln: Jeweils die Maschen der ersten zwei und letzten zwei Nadeln auf je eine kombinieren, somit 8 Maschen pro Nadeln, insg 2 Nadeln und 16 Maschen über. Letzte Masche zurückstricken (als ob nie gestrickt), Faden sollte danach außen liegen. Strickstück so drehen, dass der Faden hinten ist. Eine rechte Maschen stricken indem in je eine Masche pro Nadel eingestochen wird, d.h. zwei Maschen werden zusammengestrickt. Die neue Masche sollte locker auf der Nadel liegen. 
+1 Abnehmrunde, 2 Runden glatt rechts. 1 Abnehmrunde, 2 Runden glatt rechts. (=2x2)  
+1 Abnehmrunde, 1 Runde glatt rechts. 1 Abnehmrunde, 1 Runde glatt rechts. 1 Abnehmrunde, 1 Runde glatt rechts. (=3x1)  
+
+Dann jede Runde abnehmen, bis 4 Maschen je Nadel über sind.  
+
+## Abketteln
+
+Jeweils die Maschen der ersten zwei und letzten zwei Nadeln auf je eine kombinieren, somit 8 Maschen pro Nadeln, insg 2 Nadeln und 16 Maschen über. Letzte Masche zurückstricken (als ob nie gestrickt), Faden sollte danach außen liegen. Strickstück so drehen, dass der Faden hinten ist. Eine rechte Maschen stricken indem in je eine Masche pro Nadel eingestochen wird, d.h. zwei Maschen werden zusammengestrickt. Die neue Masche sollte locker auf der Nadel liegen. 
 
 * Eine rechte Maschen stricken indem in je eine Masche pro Nadel eingestochen wird, d.h. zwei Maschen werden zusammengestrickt. Die neue Masche sollte locker auf der Nadel liegen, denn jetzt wird von den neuen Maschen die hintere über die vordere gezogen, somit bleibt auf der Nadel nur eine neuen Masche über.
 
