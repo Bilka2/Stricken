@@ -11,8 +11,12 @@
 | [Dicke grüne Socken](Projekte/6-faedig-gruen/6-faedig-gruen.md) | Socken nach Muttis Art, abgeändert für 6-fädige Wolle | Wolle Rödel Strumpfwolle Color Fashion 6-fädig türkis-grün | Wolle 2021-09-08 gekauft. Eine Socke 2021-10-18 fertig. Zwischen 2021-11 und 2021-12 fertig. | Kuschelig.
 | Weißblaue Socken | [Socken nach Muttis Art](Socken/MuttisArt.md) | Atelier Zitron ??? | ??? | Etwas zu kurz im Fuß. Wolle ist weicher als REGIA Wollen.
 | Grünbunte Socken | [Socken nach Muttis Art](Socken/MuttisArt.md) | ??? | ??? angefangen. 2021-12-24 fertig. | Sehr schönes Ergebnis. Verschenkt. ??? Maß im Fuß.
-| Graue Mustersocken | ??? aus [Op-Art-Socks](Buecher/Op-Art-Socks.md) | ??? | ??? | Etwas weit im Schaft. Sehr langer Schaft. Wolle (100g) hat fast nicht gereicht.
+| Graue Mustersocken | ??? aus [Op-Art-Socks](Buecher/Op-Art-Socks.md) mit Änderungen | ??? | ??? | Etwas weit im Schaft. Sehr langer Schaft. Wolle (100g) hat fast nicht gereicht.
 | Grünblaue Mustersocken | Eigenes Muster + Knotty | ??? | ??? | Zu lang im Fuß. Im Muster im Schaft enger, aber unproblematisch.
+| Quadratischer Untersetzer | granny square ??? | Baumwolle | 2022-03-14 fertig. | ???
+| Halbfinger Handschuhe | Knotty mit Änderungen | Kraken Yarns Merino Balance - VAVOOM | ??? | Nice
+| Schaltkreis Untersetzer | Eigenes Muster | Baumwolle | ??? | Double-face knitting
+| Gelbbunte Socken | Eigenes Muster + Zopf | Kraken Yarns Sira Socks - CRAZY | ??? | Nice
 
 ## Anleitungen
 * [Socken nach Muttis Art](Socken/MuttisArt.md)
