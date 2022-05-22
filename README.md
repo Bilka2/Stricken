@@ -14,9 +14,9 @@
 | Graue Mustersocken | ??? aus [Op-Art-Socks](Buecher/Op-Art-Socks.md) mit Änderungen | ??? | ??? | Etwas weit im Schaft. Sehr langer Schaft. Wolle (100g) hat fast nicht gereicht.
 | Grünblaue Mustersocken | Eigenes Muster + Knotty | ??? | ??? | Zu lang im Fuß. Im Muster im Schaft enger, aber unproblematisch.
 | Quadratischer Untersetzer | granny square ??? | Baumwolle | 2022-03-14 fertig. | ???
-| Halbfinger Handschuhe | Knotty mit Änderungen | Kraken Yarns Merino Balance - VAVOOM | ??? | Nice
+| Halbfinger Handschuhe | Knotty mit Änderungen | Kraken Yarns Merino Balance - VAVOOM | 2022-03-26 bis 2022-04-15 | Nice
 | Schaltkreis Untersetzer | Eigenes Muster | Baumwolle | ??? | Double-face knitting
-| Gelbbunte Socken | Eigenes Muster + Zopf | Kraken Yarns Sira Socks - CRAZY | ??? | Nice
+| Buntgelbe Socken | Eigenes Muster + Zopf | Kraken Yarns Sira Socks - CRAZY | 2022-04-16 bis 2022-05-12 | Nice
 
 ## Anleitungen
 * [Socken nach Muttis Art](Socken/MuttisArt.md)
