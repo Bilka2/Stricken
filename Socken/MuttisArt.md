@@ -3,7 +3,7 @@
 * Ein Nadelspiel (=5 Nadeln) mit Nadelstärke 2,50 mm
 * 4-fädige Sockenwolle
 
-## Stulpen
+## Bündchen/Schaft
 
 64 Maschen anschlagen. Kreuzanschlag mit doppeltem Daumenfaden, dies braucht circa 70 cm doppelten Faden (=140 cm insg.).
 Eine Runde glatt rechts.  
@@ -18,7 +18,7 @@ Die Hälfte der Maschen wird stillgelegt und erst in "Verbindung Ferse und Spann
 Diese 32 Maschen werden nun hin und her weiter gestrickt, nach jeder Zeile im folgenden Muster wird das Strickstück gedreht.
 
 Muster ("Halb-Patent"):  
-re = rechte Masche, a = abheben, li = linke Masche, rand = [Randmasche](/Technik/Maschen.md#Randmasche)
+re = rechte Masche, a = abheben, li = linke Masche, rand = [Randmasche](/Techniken/Maschen.md#Randmasche)
 
     1. re   re re    a re a re a re ....      re re rand (drehen)
     2. rand re re    li li li li li li ....   re re rand (drehen)

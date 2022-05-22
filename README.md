@@ -1,4 +1,8 @@
 # Stricken
 
+
+## Anleitungen
 * [Socken nach Muttis Art](Socken/MuttisArt.md)
-* [Maschenbeschreibungen](Technik/Maschen.md)
+
+## Techniken
+* [Maschenbeschreibungen](Techniken/Maschen.md)
