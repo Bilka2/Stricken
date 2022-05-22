@@ -8,7 +8,7 @@
 64 Maschen anschlagen. Kreuzanschlag mit doppeltem Daumenfaden, dies braucht circa 70 cm doppelten Faden (=140 cm insg.).
 Eine Runde glatt rechts.  
 Muster: 2 rechte Maschen, 2 linke Maschen, wiederholen  
-Stulpenlänge: 13 cm (gerne noch 1 cm länger)
+Bündchenlänge: 13 cm (gerne noch 1 cm länger)
 
 Dann 3 Runden glatt rechts. (Beim Rundenanfang anfangen, also da wo unten der Zipfel ist.)
 
