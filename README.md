@@ -19,10 +19,11 @@
 | Buntgelbe Socken | Eigenes Muster + Zopf | Kraken Yarns Sira Socks - CRAZY | 2022-04-16 bis 2022-05-12 | Nice
 | Blaue Sneakersocken | Eigenes Muster + Änderungen | Rico Superba bamboo DENIM-MIX | 2022-05-23 bis 2022-05-27 |
 | Blaue Sneakersocken | Eigenes Muster + Änderungen | Rico Superba bamboo DENIM-MIX | 2022-05-28 bis 2022-06-28 |
-| Pullover | Raglano + Zöpfe | Dukaten Strumpfgarn (hellbraun) | Juni? bis ? |
-| Queen of the pool Socken | Eigenes Muster | Kraken Yarns Merino Balance - QUEEN OF THE POOL | 2022-07-03 bis 2022-08-07 |
+| Pullover | Raglano + Zöpfe | Dukaten Strumpfgarn (hellbraun) | 2022-06-13 bis ? |
+| Queen of the Pool Socken | Eigenes Muster | Kraken Yarns Merino Balance - QUEEN OF THE POOL | 2022-07-03 bis 2022-08-07 |
 | Vavoom Sneakersocken | Eigenes Muster + Änderungen | Kraken Yarns Merino Balance - VAVOOM und REGIA 4-fädig weiß | 2022-08-07 bis 2022-09-11 |
 | Maroni Mustersocken | Eigenes Muster + SLOVEnia | Kraken Yarns Squishy Socks - MARONI und REGIA 4-fädig grau | 2022-09-11 bis 2022-10-08 | Zu verschenken
+| [Queen of the Pool Schlauchschal](Projekte/Queen-Pool-Cowl/Queen-Pool-Cowl.md) | Eigenes Muster | Kraken Yarns Merino Balance - QUEEN OF THE POOL | 2022-11-05 bis 2022-11-16 |
 
 
 ## Anleitungen
