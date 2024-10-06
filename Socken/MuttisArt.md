@@ -47,7 +47,7 @@ Nächste beiden Nadeln glatt rechts, dies sind die Nadeln die in "Ferse" stillge
 Dann mit einer neuen Nadel an der 2. Fersenseite ebenfalls Maschen aufschlagen. Hier ist das Verdrehen des Fadens beim Aufschlagen der ersten Masche besonders wichtig. Nach dem Aufschlagen der 17 Maschen, 5 Maschen der nächsten Nadel auf diese Nadel rüberstricken, damit auf dieser und der nächsten Nadel 5 + 17 Maschen sind.  
 3 Nadeln glatt rechts um beim Rundenanfang anzukommen, also da wo unten der Zipfel ist.
 
-## Keilabnehmen
+## Keilabnehmen (Spickel)
 
 1 Masche rechts, zwei Maschen rechts zusammenstricken, rechts weiter. Auf der nächsten Nadel die vor-vorletzte und vorletzte Maschen rechts zusammenstricken, dann die letzte Masche rechts stricken. 2 Nadeln glatt rechts. 1 Runde glatt rechts. Somit werden jede zweite Runde insgesamt 2 Maschen abgenommen.  
 Dieses wiederholen (=jede 2. Runde abnehmen) bis auf allen Nadeln wieder jeweils 16 Maschen sind.

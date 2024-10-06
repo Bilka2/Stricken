@@ -1,5 +1,11 @@
 # Stricken
 
+## Anleitungen
+* [Socken nach Muttis Art](Socken/MuttisArt.md)
+
+## Techniken
+* [Maschenbeschreibungen](Techniken/Maschen.md)
+
 ## Projekte
 
 | Projekt | Anleitung | Wolle | Zeitraum | Notizen
@@ -24,10 +30,8 @@
 | Vavoom Sneakersocken | Eigenes Muster + Änderungen | Kraken Yarns Merino Balance - VAVOOM und REGIA 4-fädig weiß | 2022-08-07 bis 2022-09-11 |
 | Maroni Mustersocken | Eigenes Muster + SLOVEnia | Kraken Yarns Squishy Socks - MARONI und REGIA 4-fädig grau | 2022-09-11 bis 2022-10-08 | Zu verschenken
 | [Queen of the Pool Schlauchschal](Projekte/Queen-Pool-Cowl/Queen-Pool-Cowl.md) | Eigenes Muster | Kraken Yarns Merino Balance - QUEEN OF THE POOL | 2022-11-05 bis 2022-11-16 |
+| ??? | ??? | ??? | ??? |
+| [4 Wollen, eine Paar Socken](Projekte/4-Wollen-ein-Paar-Socken/4-Wollen-ein-Paar-Socken.md) | Eigenes Muster + Änderungen |  | 2023-12-21 bis 2024-09-10 |
+| Shorties | Eigenes Muster + Änderungen | Rico socks soft spin 4-fädig | 2024-09-15 bis ? |
+| Exmoor Socken | Eigenes Muster + Änderungen | Exmoor Sock 4Play "Aggy" | 2024-09-27 bis ? |
 
-
-## Anleitungen
-* [Socken nach Muttis Art](Socken/MuttisArt.md)
-
-## Techniken
-* [Maschenbeschreibungen](Techniken/Maschen.md)
