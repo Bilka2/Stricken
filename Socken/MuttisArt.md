@@ -8,7 +8,7 @@
 64 Maschen anschlagen. Kreuzanschlag mit doppeltem Daumenfaden, dies braucht circa 70 cm doppelten Faden (=140 cm insg.).
 Eine Runde glatt rechts.  
 Muster: 2 rechte Maschen, 2 linke Maschen, wiederholen  
-Bündchenlänge: 13 cm (gerne noch 1 cm länger)
+Bündchenlänge: 14 cm (gerne noch 1 cm länger)
 
 Dann 3 Runden glatt rechts. (Beim Rundenanfang anfangen, also da wo unten der Zipfel ist.)
 
@@ -18,12 +18,12 @@ Die Hälfte der Maschen wird stillgelegt und erst in "Verbindung Ferse und Spann
 Diese 32 Maschen werden nun hin und her weiter gestrickt, nach jeder Zeile im folgenden Muster wird das Strickstück gedreht.
 
 Muster ("Halb-Patent"):  
-re = rechte Masche, a = abheben, li = linke Masche, rand = [Randmasche](/Techniken/Maschen.md#Randmasche)
+re = rechte Masche, abh = abheben, li = linke Masche, rand = [Randmasche](/Techniken/Maschen.md#Randmasche)
 
-    1. re   re re    a re a re a re ....      re re rand (drehen)
-    2. rand re re    li li li li li li ....   re re rand (drehen)
-    3. rand re re    a re a re a re ....      re re rand (drehen)
-    4. rand re re    li li li li li li ....   re re rand (drehen)
+    1. (Hinreihe)  re   re re    abh re abh re abh re ....    re re rand (drehen)
+    2. (Rückreihe) rand re re    li  li li  li li  li ....    re re rand (drehen)
+    3. (Hinreihe)  rand re re    abh re abh re abh re ....    re re rand (drehen)
+    4. (Rückreihe) rand re re    li  li li  li li  li ....    re re rand (drehen)
 
 Dies sind 2 Doppelreihen. Punkte 3 und 4 wiederholen, bis insgesamt 16 Doppelreihen gestrickt wurden, d.h. also 32 Mal hin und her.  
 Durch die rechten Maschen in der Rückreihe bilden sich Knötchen an den Rändern der Ferse. Die Anzahl der Knötchen an einer Seite entspricht der Anzahl der Doppelreihen.
