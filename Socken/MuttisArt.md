@@ -43,7 +43,7 @@ Punkte 3 und 4 wiederholen bis außen keine Maschen mehr über sind.
 ## Verbindung Ferse und Spann
 
 1 Masche abheben (wegen des Musters im vorherigen Teil). Mit rechten Maschen weiterstricken. Aus jeder Schlaufe längs der Ferse eine Masche aufschlagen, dies sollten 16 sein. Beim Übergang zur nächsten Nadel eine 17-nte aus verdrehtem Faden aufnehmen, um das Loch dort zu verkleinern.  
-Nächste beiden Nadeln glatt rechts, dies sind die Nadeln die in "Ferse" stillgelegt wurden.  
+Nächste beiden Nadeln glatt rechts, dies sind die Nadeln, die in "Ferse" stillgelegt wurden.  
 Dann mit einer neuen Nadel an der 2. Fersenseite ebenfalls Maschen aufschlagen. Hier ist das Verdrehen des Fadens beim Aufschlagen der ersten Masche besonders wichtig. Nach dem Aufschlagen der 17 Maschen, 5 Maschen der nächsten Nadel auf diese Nadel rüberstricken, damit auf dieser und der nächsten Nadel 5 + 17 Maschen sind.  
 3 Nadeln glatt rechts um beim Rundenanfang anzukommen, also da wo unten der Zipfel ist.
 
